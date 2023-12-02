@@ -29,7 +29,7 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-![image](https://github.com/Abburehan/DISTANCE-BETWEEN-TWO-POINTS/assets/138849336/c6eacc0c-2234-4bbc-b615-fcbf5a75d178)
+![image](https://github.com/Abburehan/DISTANCE-BETWEEN-TWO-POINTS/assets/138849336/de098261-677d-437a-84a8-effcc323fb89)
 
 
 ### RESULT:
